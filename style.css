@@ -73,6 +73,16 @@ footer {
   font-weight: bold;
 }
 
+/* Warning Colour */
+.color-warning {
+  color: #facb32;
+}
+
+/* Attention Colour */
+.color-attention {
+  color: #ff5050;
+}
+
 /* Body End */
 /* Nav Start */
 
