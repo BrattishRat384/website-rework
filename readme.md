@@ -8,3 +8,7 @@
 > - .spacer | adds a 10% top padding
 > - .imgtxt | 
 > - .rmscroll | Removes the scroll bar
+
+> Custom colors:
+> - .color-warning
+> - .color-attention
