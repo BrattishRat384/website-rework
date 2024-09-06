@@ -8,6 +8,7 @@
 > - .spacer | adds a 10% top padding
 > - .imgtxt | 
 > - .rmscroll | Removes the scroll bar
+> - .link-img | adds bolding and make solid
 
 > Custom colors:
 > - .color-warning

@@ -46,6 +46,13 @@ img {
     color: #afafff
 }
 
+.link-img {
+  text-decoration: solid;
+  font-weight: bold;
+  font-size: 100%;
+  color: #afafff
+}
+
 /* Spacer */
 .spacer {
   padding-top: 10%;
