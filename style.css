@@ -119,7 +119,7 @@ footer {
 
 /* Scaling start */
 
-@media screen and (max-width: 767px) {
+@media (max-width: 767px) {
     body {
         padding-left: 2%;
         padding-right: 2%;
