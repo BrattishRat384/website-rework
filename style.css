@@ -124,6 +124,9 @@ footer {
         padding-left: 2%;
         padding-right: 2%;
     }
+    .topnav a {
+      float: center;
+    }
 }
 
 /* Scaling end */
