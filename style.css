@@ -1,94 +1,94 @@
 /* Body Start */
 
 body {
-    background-color: #060612;
-    color: hsl(0 0% 98%);
-    font-family:  "Geist Sans", "SF Pro Text", "SF Pro Icons", "AOS Icons", "Helvetica Neue", Helvetica, Arial, sans-serif, system-ui;
-    font-weight: 80;
-    text-align: center;
-    padding-left: 15%;
-    padding-right: 15%;
-    text-decoration: none;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
+  background-color: #060612;
+  color: hsl(0 0% 98%);
+  font-family:  "Geist Sans", "SF Pro Text", "SF Pro Icons", "AOS Icons", "Helvetica Neue", Helvetica, Arial, sans-serif, system-ui;
+  font-weight: 80;
+  text-align: center;
+  padding-left: 15%;
+  padding-right: 15%;
+  text-decoration: none;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 h1 {
-    font-size: 300%;
-    font-style: bold;
+  font-size: 300%;
+  font-style: bold;
 }
 
 h2 {
-    font-size: 150%;
+  font-size: 150%;
 }
 
 /* Image */
 img {
-  aspect-ratio: 16 / 9;
-  height: 25%;
+aspect-ratio: 16 / 9;
+height: 25%;
 }
 
 .imgtxt {
-  container: 2;
+container: 2;
 }
 
 /* Href */
 .link-h2 {
-    text-decoration: none;
-    font-size: 125%;
-    color: #afafff
-}
-
-.link-p {
-    text-decoration: none;
-    font-size: 100%;
-    color: #afafff
-}
-
-.link-img {
   text-decoration: none;
-  font-weight: bold;
   font-size: 125%;
   color: #afafff
 }
 
+.link-p {
+  text-decoration: none;
+  font-size: 100%;
+  color: #afafff
+}
+
+.link-img {
+text-decoration: none;
+font-weight: bold;
+font-size: 125%;
+color: #afafff
+}
+
 /* Spacer */
 .spacer {
-  padding-top: 10%;
+padding-top: 10%;
 }
 
 /* Footer */
 footer {
-  margin-top: auto;
-  bottom: 0;
+margin-top: auto;
+bottom: 0;
 }
 
 /* Remove Scroll bar */
 .rmscroll {
-  overflow: hidden;
+overflow: hidden;
 }
 
 /* Socail Button */
 #social-button {
-  width: 200px;
-  height: 50px;
-  border-radius: 40px;
-  color: white;
-  border: none;
-  transition: 0.5s;
-  outline: none;
-  font-weight: bold;
+width: 200px;
+height: 50px;
+border-radius: 40px;
+color: white;
+border: none;
+transition: 0.5s;
+outline: none;
+font-weight: bold;
 }
 
 /* Warning Colour */
 .color-warning {
-  color: #facb32;
+color: #facb32;
 }
 
 /* Attention Colour */
 .color-attention {
-  color: #ff5050;
+color: #ff5050;
 }
 
 /* Body End */
@@ -96,48 +96,48 @@ footer {
 
 /* Add a black background color to the top navigation */
 .topnav {
-    background-image: #0e0e29b6;
-    overflow: hidden;
-  }
-  
-  /* Style the links inside the navigation bar */
-  .topnav a {
-    float: left;
-    color: #a3a3a3;
-    text-align: left;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-  }
-  
-  /* Change the color of links on hover */
-  .topnav a:hover {
-    background-color: #0c0c24;
-    color: rgb(63, 63, 63);
-  }
-  
-  /* Add a color to the active/current link */
-  .topnav a.active {
-    background-color: #ffffff00;
-    color: rgb(255, 255, 255);
-  }
+  background-image: #0e0e29b6;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #a3a3a3;
+  text-align: left;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #0c0c24;
+  color: rgb(63, 63, 63);
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #ffffff00;
+  color: rgb(255, 255, 255);
+}
 
 /* Nav End */
 
 /* Scaling start */
 
 @media (max-width: 767px) {
-    body {
-        padding-left: 2%;
-        padding-right: 2%;
-    }
-    img{
-      width: 60vw;
-      height: auto;
-    }
-    .topnav a {
-      float: center;
-    }
+  body {
+      padding-left: 2%;
+      padding-right: 2%;
+  }
+  img{
+    width: 60vw;
+    height: auto;
+  }
+  .topnav a {
+    float: center;
+  }
 }
 
 /* Scaling end */
