@@ -131,6 +131,10 @@ footer {
         padding-left: 2%;
         padding-right: 2%;
     }
+    img{
+      width: 60vw;
+      height: auto;
+    }
     .topnav a {
       float: center;
     }
