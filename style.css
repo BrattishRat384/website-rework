@@ -138,17 +138,20 @@ color: #ff5050;
 
 /* Scaling start */
 
-@media (max-width: 767px) {
+@media screen and (max-width: 600px) {
   body {
       padding-left: 2%;
       padding-right: 2%;
   }
   img{
-    width: 60vw;
+    width: 90vw;
     height: auto;
   }
   .topnav a {
     float: center;
+  }
+  .column {
+    width: 90vw;
   }
 }
 
