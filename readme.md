@@ -9,7 +9,7 @@
 > - .imgtxt | 
 > - .rmscroll | Removes the scroll bar
 > - .link-img | adds bolding and makes 125%
-
+> - .portimg | Fixes scaling portfolio
 > Custom colors:
 > - .color-warning
 > - .color-attention
