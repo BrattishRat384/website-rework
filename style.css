@@ -39,7 +39,7 @@ container: 2;
 }
 
 .portimg {
-  width: 33.33%
+  width: 33.33vw;
 }
 
 .row:after {
