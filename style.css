@@ -36,7 +36,7 @@ container: 2;
 .column {
   align-items: center;
   width: 580px;
-  height: 2auto; 
+  height: auto; 
   display: inline-block;
   padding-left: 2.5%;
   padding-right: 2.5%;
