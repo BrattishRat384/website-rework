@@ -40,7 +40,8 @@ container: 2;
   display: inline-block;
   padding-left: 2.5%;
   padding-right: 2.5%;
-  
+  border-image: 2px;
+  border-color: #a3a3a3;
 }
 
 .row:after {
