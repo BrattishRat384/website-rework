@@ -39,7 +39,8 @@ container: 2;
 }
 
 .portimg {
-  width: 33.33vw;
+  max-width: 448px;
+  height: auto;
 }
 
 .row:after {
