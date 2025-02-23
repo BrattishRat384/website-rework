@@ -157,17 +157,17 @@ color: #ff5050;
       padding-right: 2%;
   }
   img{
-    width: 90vw;
+    width: 80vw;
     height: auto;
   }
   .topnav a {
     float: center;
   }
   .column {
-    width: 90vw;
+    width: 80vw;
   }
   .portimg {
-    width:90vw;
+    width:80vw;
   }
 }
 
