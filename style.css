@@ -34,8 +34,13 @@ container: 2;
 
 /* Portfolio conf */
 .column {
-  align-content: center;
-  max-width: 672px;
+  align-items: center;
+  width: 600px;
+  height: 2auto; 
+  display: inline-grid;
+  padding-left: 2.5%;
+  padding-right: 2.5%;
+  
 }
 
 .row:after {
@@ -45,7 +50,8 @@ container: 2;
 }
 
 .portimg {
-  max-width: 672px;
+  
+  width: 600px;
   height: auto;
   padding-left: 2.5%;
   padding-right: 2.5%;
