@@ -34,7 +34,7 @@ container: 2;
 
 /* Portfolio conf */
 .column {
-  float: center;
+  align-content: center;
   width: 33.33%;
   padding-left: 5%;
   padding-right: 5%;
