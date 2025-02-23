@@ -33,6 +33,18 @@ width: auto;
 container: 2;
 }
 
+/* Portfolio conf */
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 /* Href */
 .link-h2 {
   text-decoration: none;
