@@ -41,6 +41,7 @@ container: 2;
 .portimg {
   max-width: 448px;
   height: auto;
+  padding-left: 2.5%; padding-right: 2.5%;
 }
 
 .row:after {
