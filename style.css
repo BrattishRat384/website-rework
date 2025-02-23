@@ -166,6 +166,9 @@ color: #ff5050;
   .column {
     width: 90vw;
   }
+  .portimg {
+    width:90vw;
+  }
 }
 
 /* Scaling end */
