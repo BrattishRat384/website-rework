@@ -1,7 +1,7 @@
 # Simple website
 ---
 > TO DO:
-> - Work out how to dynamicly change sizes.
+> - Nothing
 --- 
 > Custom classes:
 > - .link-h2 | Makes the link of the h2 text look better.
